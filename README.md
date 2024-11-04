@@ -4,5 +4,5 @@
 2. Install packages - `npm install`
 3. Run the application - `node index.js`
 
-The application will run on port 3002.
+The application will run on port 3002. A request to the [root](http://localhost:3002/) should return plaintext 'Hello World!'.
 
